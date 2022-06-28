@@ -1,0 +1,20 @@
+{
+    "name": "Pcx.Editor",
+    "rootNamespace": "",
+    "references": [
+        "Pcx"
+    ],
+    "includePlatforms": [
+        "Android",
+        "CloudRendering",
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
